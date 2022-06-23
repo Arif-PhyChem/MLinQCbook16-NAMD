@@ -48,6 +48,9 @@ To run this tutorial in a local machine, the following third-party softwares mus
 - Newton-X (version 2.4-b06)
 
 # ML-assisted HEOM
+You can find the corresponding code here 
+https://github.com/Arif-PhyChem/Quantum_dissipative_dynamics_with_kernel_methods
+
 
 Prerequisite steps for ML-dynamics with the KRR model
 
